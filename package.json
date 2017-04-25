@@ -1,0 +1,16 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "本地管理库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"\"",
+    "start": "node index.js"
+  },
+  "author": "WuBin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
